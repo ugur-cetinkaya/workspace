@@ -1,0 +1,63 @@
+Binary-Search-Tree Project
+
+5 eklenir:
+7
+/
+5
+1 eklenir:
+7
+/
+5 1
+8 eklenir:
+7
+/
+5 8
+/
+1
+3 eklenir:
+7
+/
+5 8
+/
+1 3
+6 eklenir:
+7
+/
+5 8
+/ \
+1 3
+6
+0 eklenir:
+7
+/
+5 8
+/ \
+1 3
+/
+0
+9 eklenir:
+7
+/
+5 8
+/ \
+1 3 9
+/
+0 6
+4 eklenir:
+7
+/
+5 8
+/ \
+1 3 9
+/ \
+0 4
+2 eklenir:
+7
+/
+5 8
+/ \
+1 3 9
+/ \
+0 4
+/
+2
